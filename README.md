@@ -8,7 +8,7 @@
 
 - [![Html Badge](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=&link=https://developer.android.com/)](https://developer.android.com/) &nbsp;
 [![Css3 Badge](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
-![Java-Script Badge](https://img.shields.io/badge/-JAVASCRIPT-000?style=flat-square&logo=Java-Script&logoColor=white) &nbsp;
+![Type-Script Badge](https://img.shields.io/badge/-TYPESCRIPT-000?style=flat-square&logo=Java-Script&logoColor=white) &nbsp;
 ![Node Badge](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=&logoColor=white&link=https://kotlinlang.org/) &nbsp;
 [![Amazon AWS](https://img.shields.io/badge/AMAZON_AWS-000000?style=flat-square&logo=&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/) &nbsp;
 
